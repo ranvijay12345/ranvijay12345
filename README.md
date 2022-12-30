@@ -1,10 +1,10 @@
-👋 Hi, I’m Ranvijay Patel. I am a final-year student at IIIT Guwahati, majoring in Computer Science and Engineering (CSE) branch.
-- • I like Problem Solving, doing DSA problems, and also Interested in web development.
-- • I have solved 600+ questions on GeeksforGeeks, Leetcode, and InterviewBit.
-- • completed the 1 month of Web-Development training.
-- • Course work: OOPs, DBMS, and OS.
-- • Technical Skill: Data Structure and Algorithms, C Programming, C++ Programming, Java(Basic), HTML, CSS, JavaScript, MySQL, Node.js, MongoDB.
-- • And Now I am focusing to learn React.JS
+- 👋 Hi, I’m Ranvijay Patel. I am a final-year student at IIIT Guwahati, majoring in Computer Science and Engineering (CSE) branch.
+- I like Problem Solving, doing DSA problems, and also Interested in web development.
+- I have solved 600+ questions on GeeksforGeeks, Leetcode, and InterviewBit.
+- completed the 1 month of Web-Development training.
+- Course work: OOPs, DBMS, and OS.
+- Technical Skill: Data Structure and Algorithms, C Programming, C++ Programming, Java(Basic), HTML, CSS, JavaScript, MySQL, Node.js, MongoDB.
+- And Now I am focusing to learn React.JS
 
 Reach out to me...
 <!---
