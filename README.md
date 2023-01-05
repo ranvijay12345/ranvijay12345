@@ -6,7 +6,7 @@
 - Technical Skill: Data Structure and Algorithms, C Programming, C++ Programming, Java(Basic), HTML, CSS, JavaScript, MySQL, Node.js, MongoDB.
 - And Now I am focusing to learn React.JS
 
-- Reach out to me... 
+##### Reach out to me... 
 - Email: ranvijayid76@gmail.com
 - Linkedlin: https://www.linkedin.com/in/ranvijay-patel-6a164a1b4/
 <!---
