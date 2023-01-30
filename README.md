@@ -3,8 +3,8 @@
 - I have solved 600+ questions on GeeksforGeeks, Leetcode, and InterviewBit.
 - completed the 1 month of Web-Development training.
 - Course work: OOPs, DBMS, and OS.
-- Technical Skill: Data Structure and Algorithms, C Programming, C++ Programming, Java(Basic), HTML, CSS, JavaScript, MySQL, Node.js, MongoDB.
-- And Now I am focusing to learn React.JS
+<!-- - Technical Skill: Data Structure and Algorithms, C Programming, C++ Programming, Java(Basic), HTML, CSS, JavaScript, MySQL, Node.js, MongoDB.
+- And Now I am focusing to learn React.JS -->
 
 ### Reach out to me... 
 - Email: ranvijayid76@gmail.com
