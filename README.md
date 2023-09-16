@@ -1,4 +1,9 @@
-- 👋 Hi, I’m Ranvijay Patel. I am a final-year student at IIIT Guwahati, majoring in Computer Science and Engineering (CSE) branch.
+- 👋 Hi, I’m Ranvijay Patel. I have completed my B. Tech from IIIT Guwahati, majoring in Computer Science and Engineering (CSE) branch.
+
+- Ex. SDE Intern at Thinkseed Systems.
+  
+- Currently, working as a Software Developer at Thinkseed Systems.
+  
 - I like Problem Solving, doing DSA problems, and also Interested in web development.
 - I have solved 600+ questions on GeeksforGeeks, Leetcode, and InterviewBit.
 - completed the 1 month of Web-Development training.
