@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ranvijay Patel. I have completed my B. Tech from IIIT Guwahati, majoring in Computer Science and Engineering (CSE) branch.
+- 👋 Hi, I’m Ranvijay Patel. I have completed my B. Tech from IIIT Guwahati [2019 - 2023], majoring in Computer Science and Engineering (CSE) branch.
 
 - Ex. SDE Intern at Thinkseed Systems. [June 2023 - August 2023]
   
