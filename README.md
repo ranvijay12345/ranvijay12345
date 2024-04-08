@@ -3,7 +3,7 @@
 - Ex. SDE Intern at Thinkseed Systems. [June 2023 - August 2023]
   
 - Currently, working as a Software Developer at Thinkseed Systems. [September 2023 - Present]
-  
+- WorkExperience with Java, SpringBoot, Spring MVC, MySQL and MongoDB, CyberSecurity, DaVinci Tools and Debugging —  Knowledge/Experience in OOP, Web Development, Front-end Technology, Backend Technologies
 - I like Problem Solving, doing DSA problems, and also Interested in web development.
 - I have solved 600+ questions on GeeksforGeeks, Leetcode, and InterviewBit.
 - completed the 1 month of Web-Development training.
