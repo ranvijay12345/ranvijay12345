@@ -14,6 +14,7 @@
 ### Reach out to me... 
 - Email: ranvijayid76@gmail.com
 - Linkedlin: https://www.linkedin.com/in/ranvijay-patel-6a164a1b4/
+- Resume: https://drive.google.com/file/d/19RhG4LsEzHnH44MBwifTp3Z6xLPtIlOP/view?usp=sharing
 <!---
 ranvijay12345/ranvijay12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
